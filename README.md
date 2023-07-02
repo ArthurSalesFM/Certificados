@@ -1,12 +1,12 @@
 # Certificados
 
-*Arthur Felipe MS*
+## *Arthur Felipe MS*
 
 Todos os certificados de cursos realizados
 
-#### Cursos Realizados 
+### Cursos Realizados 
 
-* *Banco de Dados (Relacionais e Não Relacionais)*
+#### * *Banco de Dados (Relacionais e Não Relacionais)*
   
   * MySQL
   * PostgreSQL
@@ -16,7 +16,7 @@ Todos os certificados de cursos realizados
   * CouchDB
   * Firebase
 
-* *Java*
+#### * *Java*
   
   * Fundamentos
   * Estruturas de Controle
@@ -32,7 +32,7 @@ Todos os certificados de cursos realizados
   * Modularidade
   * JavaFX
 
-* *Git e GitHub*
+#### * *Git e GitHub*
   
   * Git Fundamental
   * Branchs
