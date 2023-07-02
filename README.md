@@ -4,6 +4,12 @@
 
 Todos os certificados de cursos realizados
 
+### Cursos em progresso 
+
+  * React do Zero a Maestria (c/ hooks, router, API, Projetos)
+  * Curso de Python 3 do Básico Ao Avançado
+
+
 ### Cursos Realizados 
 
 #### *Banco de Dados (Relacionais e Não Relacionais)*
