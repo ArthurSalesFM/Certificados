@@ -6,7 +6,7 @@ Todos os certificados de cursos realizados
 
 ### Cursos em progresso 
 
-  * React do Zero a Maestria (c/ hooks, router, API, Projetos)
+  * Web Frontend (html5, css, Javascript)
   * Curso de Python 3 do Básico Ao Avançado
 
 
