@@ -2,7 +2,7 @@
 
 ## *Arthur Felipe MS*
 
-Todos os certificados de cursos realizados
+Alguns dos certificados de cursos realizados
 
 ### Cursos em progresso 
 
