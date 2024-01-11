@@ -6,8 +6,8 @@ Alguns dos certificados de cursos realizados
 
 ### Cursos em progresso 
 
-  * Web Frontend (html5, css, Javascript)
-  * Curso de Python 3 do Básico Ao Avançado
+  * React
+  * Node
 
 
 ### Cursos Realizados 
@@ -45,4 +45,44 @@ Alguns dos certificados de cursos realizados
   * Compartilhamento e Atualização de Repositórios
   * Administração de Repositórios
   * Markdown
+
+#### Web Frontend Fundamentos
+ 
+ * Introdução ao HTML
+ * Introdução ao CSS
+ * Trabalhando com Imagens
+ * Estrutura semântica e posicionamento
+ * Flexbox
+ * Avançando com CSS
+ * Listas, tabelas e details
+ * Formulários
+ * Seletores avançados
+ * Transformações 2D
+ * Cores e efeitos
+ * Responsividade
+ * Incorporar elementos
+ * Imagens responsivas de verdade
+ * CSS Grid
+ * Animação
+ * Transformações 3D
+ * Javascript
+ * DOM
+ * Objetos
+ * Eventos
+ * Strings
+ * Number
+ * Math
+ * Arrays
+ * Date
+ * Temporizadores
+ * BOM
+ * Controle de fluxos (saltos)
+
+#### Enem 2020 - Aplicador
+
+ * Aplicador na prova do Enem 2020.
+
+#### Bootcamp Service Now (Aoop)
+
+ * Conceitos gerais sobre a plataforma Service Now
 
