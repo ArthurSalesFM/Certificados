@@ -6,11 +6,26 @@ Alguns dos certificados de cursos realizados
 
 ### Cursos em progresso 
 
-  * React
   * Node
 
 
 ### Cursos Realizados 
+
+
+#### *React JS*
+
+* Props e Component
+* Class Component
+* States
+* Ciclo de vida dos Componentes
+* Renderização condicional
+* Hooks (useState, useEffect, useMemo, useCallback)
+* Requisição HTTP
+* Rotas
+* React com Firebase
+* Context API
+* Redux
+
 
 #### *Banco de Dados (Relacionais e Não Relacionais)*
   
